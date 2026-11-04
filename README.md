@@ -30,7 +30,7 @@ You are allowed to port, fork, and use this mod on servers or anywhere else as l
 
 * **Discord:** `Toxic_bullet`
 * **Direct Profile:** [Contact on Discord](https://discord.com/users/585035087746170891)
-* **GitHub Repository:** [Toxicbullet-code/RandoWand](https://github.com/Toxicbullet-code/RandoWand?tab=readme-ov-file)
+
 
 ---
 
