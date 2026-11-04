@@ -1,0 +1,16 @@
+{
+  "itemGroup.randowand": "RandoWand",
+  "block.randowand.example_block": "Example Block",
+  "item.randowand.example_item": "Example Item",
+
+  "randowand.configuration.title": "RandoWand Configs",
+  "randowand.configuration.section.randowand.common.toml": "RandoWand Configs",
+  "randowand.configuration.section.randowand.common.toml.title": "RandoWand Configs",
+  "randowand.configuration.items": "Item List",
+  "randowand.configuration.logDirtBlock": "Log Dirt Block",
+  "randowand.configuration.magicNumberIntroduction": "Magic Number Text",
+  "randowand.configuration.magicNumber": "Magic Number",
+
+  "item.randowand.randowand": "Rando Wand"
+
+}

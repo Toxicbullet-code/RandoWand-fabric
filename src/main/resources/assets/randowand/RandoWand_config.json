@@ -1,0 +1,14 @@
+{
+  // RandoWand Configuration File
+  // This file is created automatically on first run at: fabric/config/randowand.json
+  // You can edit this file to change mod settings without touching code.
+
+  // Maximum durability of the RandoWand (how many times it can be used)
+  // Default: 1000
+  "maxDurability": 1000,
+
+  // Allow the wand to place tile entity blocks (chests, furnaces, etc.)
+  // When false, only regular blocks can be placed
+  // Default: false
+  "allowTileEntities": false
+}

@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "randowand",
+	"version": "${version}",
+	"name": "RandoWand",
+	"description": "A utility wand that places random blocks from a configured palette.",
+	"authors": [
+		"Toxicbullet"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": "https://github.com/Toxicbullet-code/RandoWand-Fabric"
+	},
+	"license": "GPL-3.0-only",
+	"icon": "assets/randowand/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.toxicbullet.randowand.RandoWand"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"authors": [
+		{
+			"name": "Toxicbullet",
+			"contact": {
+				"discord": "Toxic_bullet"
+			}
+		}
+	]
+}
