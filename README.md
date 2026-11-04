@@ -17,7 +17,7 @@ RandoWand is a lightweight building utility mod for Fabric 1.21.1 designed to st
 To craft the RandoWand, place:
 * 1 **Diamond** in the top-right corner
 * 1 **Iron Ingot** directly underneath the diamond
-* 1 **Gold Ingot** to the left of the diamond ingot
+* 1 **Gold Ingot** to the left of the diamond
 * 2 **Sticks** placed diagonally down to the bottom-left corner
 
 ---
